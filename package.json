@@ -1,0 +1,18 @@
+{
+  "name": "driving-assingment",
+  "version": "1.0.0",
+  "description": "3.3 part 2 assignment",
+  "type": "module",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yanny Dean",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "init": "^0.1.2",
+    "input": "^1.0.1"
+  }
+}
